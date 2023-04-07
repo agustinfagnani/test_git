@@ -3,3 +3,5 @@ Esto es un archivo que estoy usando para practicar git en el curso de platzi.
 agrego esta linea para probar git
 
 esta es la linea 3
+
+1185425909
